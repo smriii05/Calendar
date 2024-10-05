@@ -14,3 +14,6 @@ This is a simple Calendar created using HTML,CSS and Vanilla JavaScript.
 [CSS-url]: https://www.w3.org/
 [JS]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [JS-url]: https://www.ecma-international.org/
+
+### Screenshot
+![image](https://github.com/user-attachments/assets/b71a53a2-b085-41fc-b994-4d33b03b321d)
