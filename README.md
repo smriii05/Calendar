@@ -16,4 +16,5 @@ This is a simple Calendar created using HTML,CSS and Vanilla JavaScript.
 [JS-url]: https://www.ecma-international.org/
 
 ### Screenshot
-![image](https://github.com/user-attachments/assets/b71a53a2-b085-41fc-b994-4d33b03b321d)
+![calendar_image](https://github.com/user-attachments/assets/bcdb0b39-5e26-4c6f-8208-e85366381671)
+
